@@ -1,0 +1,26 @@
+{
+  "606242129": {
+    "name": "Никита",
+    "phone": "89531441193",
+    "username": "morgan_nik1349",
+    "user_id": 606242129,
+    "start_time": "2026-01-17 19:18:56",
+    "registered": "2026-01-17 19:19:28",
+    "ready": true,
+    "detective_sent": true,
+    "ready_time": "2026-01-17 19:19:44",
+    "detective_sent_time": "2026-01-17 19:19:44"
+  },
+  "813402715": {
+    "name": "Егорелла",
+    "phone": "89044795555",
+    "username": "klkvj",
+    "user_id": 813402715,
+    "start_time": "2026-01-17 22:28:01",
+    "registered": "2026-01-17 22:31:03",
+    "ready": true,
+    "detective_sent": true,
+    "ready_time": "2026-01-17 22:31:44",
+    "detective_sent_time": "2026-01-17 22:32:59"
+  }
+}
